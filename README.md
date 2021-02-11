@@ -1,4 +1,4 @@
-# HandsOnML-MNIST-Exercise
+# Hands On ML- Part 1, Ch.3 - MNIST Dataset (Images of handwritten digits)
 
 This is the code along for chapter 3 from "Hands On Machine Learning" (2nd Edition) by Aurélien Géron
 <br>
