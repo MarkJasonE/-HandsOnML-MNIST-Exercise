@@ -7,30 +7,29 @@ Check it out: https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorF
 <h3>Subject covered in this chapter:</h3>
 
 <h3>Section: MNIST</h3>
-<blockquote>Exploring MNIST dataset</blockquote>
+<blockquote>Exploring MNIST Dataset</blockquote>
 
 <h3>Section: Training A Binary Classifier</h3>
-<blockquote>Using stochastic gradient descent for prediction</blockquote>
+<blockquote>Using Stochastic Gradient Descent For Prediction</blockquote>
 
 <h3>Section: Performnace measures</h3>
 <blockquote>Measuring Accuracy Using Cross-Validation</blockquote>
-<blockquote>Confusion matrix</blockquote>
-<blockquote>Precision and recall</blockquote>
+<blockquote>Confusion Matrix</blockquote>
+<blockquote>Precision And Recall</blockquote>
 <blockquote>Precision/Recall Trade-off</blockquote>
 <blockquote>The ROC Curve</blockquote>
 
 <h3>Section: Multiclass Classification</h3>
-<blockquote>Using support vector machine, one vs rest and stochastic gradient descent classifiers for predictions</blockquote>
+<blockquote>Using Support Vector Machine, One VS Rest And Stochastic Gradient Descent Classifiers For Predictions</blockquote>
 
 <h3>Section: Error Analysis</h3>
-<blockquote>Using confusion matrix for error analysis</blockquote>
+<blockquote>Using Confusion Matrix For Error Analysis</blockquote>
 
 <h3>Section: Multilabel Classification</h3>
-<blockquote>Using k-nearest neighbors for predictions</blockquote>
+<blockquote>Using K-Nearest Neighbors For Predictions</blockquote>
 
 <h3>Section: Multioutput Classification</h3>
-<blockquote>Using k-nearest neighbors for predictions</blockquote>
-
+<blockquote>Using K-Nearest Neighbors For Predictions</blockquote>
 
 <h3>Section: Solutions To The Exercise Questions</h3>
 
